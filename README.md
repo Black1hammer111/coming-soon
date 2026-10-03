@@ -4,7 +4,7 @@
 
 ## رابط الموقع
 
-https://USERNAME.github.io/coming-soon/
+https://black1hammer111.github.io/coming-soon/
 
 ## التقنيات المستخدمة
 
